@@ -13,6 +13,6 @@ done
 #For aa unngaa forvirring i levering har eg valgt
 #aa ikkje lage en ny versjon av den opprinnelige
 #filkontroll.sh.
-#Det beste for fleire argument er gj0re slik at det
+#Det beste for fleire argument er aa gj0re slik at det
 #kun kommer output naar en av instansene 
 #stopper (fil opprettet, fil endret, fil slettet).
