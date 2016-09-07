@@ -13,7 +13,6 @@ while [ $i -lt $[treff+1] ];
 do
 	tall=$(grep -m $i $hendelse hendelse.logg | tail -n1 | tr -dc '0-9')
 	sum=$[sum+tall]
-	#echo "Sum = $sum, tall = $tall"
 	let i=i+1
 done
 
